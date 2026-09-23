@@ -18,3 +18,7 @@ Connectome Data Source:
 This project utilizes the Drosophila melanogaster hemibrain connectome (v1.2), reconstructed by the FlyEM project at Janelia Research Campus.
 Paper: Scheffer, L. K., et al. (2020). "A connectome and analysis of the adult Drosophila central brain." eLife, 9, e57443.
 DOI: 10.7554/eLife.57443
+
+
+Legal Note: This code is GPLv3. You must share your improvements.
+Personal Note: I'm 13. If you build something cool with this, please tell me. I won't sue you for forgetting, but I'll be sad if I miss seeing your work. 144.plz notify me by sending a email to delinz144@gmail.com. plz 
