@@ -1,14 +1,14 @@
 # _fly_learns_math
 calculator using fly's brain
 I am 13 this year, I can finally do this, hahahaha. 
-144
+144 
 if you have a more powerful subcription you can increase the n_cap and number of trainings.
 I just need DHR for AMC 10 this year hope me the best fahhhhhh. 
 that was cringe asf
 I am gonna be trying to use real neurons next year if I get DHR for AMC 10 this year and I am gonna be publishing the code so hope me the best 144. 144 
 If you use my work for something, I must be able use your work too under the condition that I give you credit plz.
-and also I realized I can star my own post so I have done it yayyyyyyyyyyyyyyyyyyy
-
+and also I realized I can star my own post so I have done it yayyyyyyyyyyyyyyyyyyy btw the training straight away adds to the trained parameter
+and most importantly my amc 10 mocks for 2024 a was 136.5 and 2024 b was 141 
 Credits:
 Data Pipeline:
 Connectivity loading and preprocessing adapted from:
